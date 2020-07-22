@@ -33,7 +33,7 @@
     "mocha": "^8.0.1",
     "mockery": "^2.0.0",
     "proclaim": "^3.6.0",
-    "sinon": "^1.17.7",
+    "sinon": "^9.0.2",
     "sinon-as-promised": "^4.0.2",
     "static-site-fastly-deployer": "github:Financial-Times/static-site-fastly-deployer",
     "throat": "^5.0.0"
